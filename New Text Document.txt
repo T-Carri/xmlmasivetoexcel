@@ -1,0 +1,80 @@
+Analizando un xml
+
+Contiene un numero de version y encoding 
+
+La principal etiqueta es "cfdi: Comprobante"
+la informacion de la etiqueta es: 
+
+-xsi:schemaLocation  : contiene un link con  http://www.sat.gob.mx/cfd/4
+ 
+
+-Version
+ 
+
+-Serie
+
+-Folio 
+
+-Fecha 
+
+-FormaPago
+
+-NoCertificado
+
+-Certificado 
+
+-SubTotal
+
+-Moneda
+
+-Exportacion 
+
+-Total 
+ 
+-TipoDeComprobante
+
+-MetodoPago 
+
+-LugarExpedicion
+
+-xmlns:xs 
+
+-xmlns:cfdi
+
+-xmlns:xsi 
+
+-sello
+
+
+Dentro de esta etiqueta se encuentran las etiquetas: 
+
+cfdi:Emisor que tiene los datos: 
+ 
+-Rfc
+-Nombre
+-RegimenFiscal
+
+cfdi:Receptor que tiene los datos:  
+
+-Rfc
+-Nombre
+-DomicilioFiscalReceptor
+-RegimenFiscalReceptor
+-UsoCFDI
+
+
+cfdi:Conceptos que tiene las etiquetas:  
+
+cfdi:Concepto que tiene los datos y las etiquetas:
+DATOS: 
+-ObjetoImp
+-ClaveProdServ
+-Cantidad
+-ClaveUnidad
+-Unidad
+-Descripcion
+-ValorUnitario
+-Importe
+
+
+
