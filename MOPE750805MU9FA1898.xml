@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<cfdi:Comprobante xsi:schemaLocation="http://www.sat.gob.mx/cfd/4 http://www.sat.gob.mx/sitio_internet/cfd/4/cfdv40.xsd" Version="4.0" Serie="A" Folio="1898" Fecha="2023-05-03T16:55:36" FormaPago="99" NoCertificado="00001000000512943825" Certificado="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" SubTotal="1200.00" Moneda="MXN" Exportacion="01" Total="1392.00" TipoDeComprobante="I" MetodoPago="PPD" LugarExpedicion="52967" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:cfdi="http://www.sat.gob.mx/cfd/4" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" Sello="EQD/xAh16HEARi94JiyE4Q6+5CPWTj5cV3JERVCyw1f2Dlw++cLnjazxTkwK3ggseCp49UDtthqZb5ucGm3qu0B8sJCyDu4LItdCvIHTN+2BSHwpqesHi5TWT6BBEbbf01CTE6Z2PIPvsfrrZWmoo2stH890yzgW2awgI94YejvWypI3+5yJe/CzBr9wSVht00BI4jybQFth2cVlIB9v8y/SZr9NWw1NyfUrXbr73p6ddCeLkr5n85OWTsfKAEcKTpoueuy1SU8SGlZBH7VL7+0yHi8MoL8KyxfZxMoJfswNoI2WcOa7qcwKNCv5rIL9yEzqogTUB1ybJYMIVfxPcg==">
+
+
+
+
+<cfdi:Emisor Rfc="MOPE750805MU9" Nombre="ERICKA MONROY PADILLA" RegimenFiscal="612"></cfdi:Emisor>
+
+<cfdi:Receptor Rfc="PCR970210MA7" Nombre="PISOS CREATIVOS" DomicilioFiscalReceptor="53330" RegimenFiscalReceptor="601" UsoCFDI="G03"></cfdi:Receptor>
+
+<cfdi:Conceptos>
+
+<cfdi:Concepto ObjetoImp="02" ClaveProdServ="81112200" Cantidad="1" ClaveUnidad="E48" Unidad="No aplica" Descripcion="Asesoria Aspel" ValorUnitario="550.00" Importe="550.00">
+<cfdi:Impuestos>
+<cfdi:Traslados><cfdi:Traslado Base="550.00" Impuesto="002" TipoFactor="Tasa" TasaOCuota="0.160000" Importe="88.00"></cfdi:Traslado></cfdi:Traslados>
+</cfdi:Impuestos>
+</cfdi:Concepto>
+
+<cfdi:Concepto ObjetoImp="02" ClaveProdServ="14111808" Cantidad="1" ClaveUnidad="H87" Unidad="No aplica" Descripcion="Modificación de formatos" ValorUnitario="650.00" Importe="650.00"><cfdi:Impuestos><cfdi:Traslados><cfdi:Traslado Base="650.00" Impuesto="002" TipoFactor="Tasa" TasaOCuota="0.160000" Importe="104.00"></cfdi:Traslado></cfdi:Traslados></cfdi:Impuestos></cfdi:Concepto>
+
+</cfdi:Conceptos>
+
+<cfdi:Impuestos TotalImpuestosTrasladados="192.00"><cfdi:Traslados><cfdi:Traslado Base="1200.00" Impuesto="002" TipoFactor="Tasa" TasaOCuota="0.160000" Importe="192.00"></cfdi:Traslado></cfdi:Traslados></cfdi:Impuestos>
+
+
+<cfdi:Complemento><tfd:TimbreFiscalDigital SelloSAT="RcPV3f1f/IR7EzXVjeyn6HYRuPfJ0ADX6LdFNs2fI9SH/5d1UJocVk9yw9HQekDlLly9vIRZrmlM9RgYPvWwLigETqu2qxVTARfjiWRHCxCr5OVJGiR5d4nTXwI9rsQIYL4dAnaNWsJGml8Tej2wJM2O7Nl+ckduGinVBovNICClmli9hUdhyp4pUlCPj41vhoN9AAMjuFUFkyzPCArPfQrermHck8lw2GldTI3IAU7mgSliOQwgJ9sBaGx5R7/5Js9T4M9ti6rsIlgWiBngdPgs+ZNzFVS6azbRUbtDts/Xxn/wf2wv+xyl3BINCTPiLz7x3W3DstqY/qoFAk+zlQ==" NoCertificadoSAT="00001000000501960426" SelloCFD="EQD/xAh16HEARi94JiyE4Q6+5CPWTj5cV3JERVCyw1f2Dlw++cLnjazxTkwK3ggseCp49UDtthqZb5ucGm3qu0B8sJCyDu4LItdCvIHTN+2BSHwpqesHi5TWT6BBEbbf01CTE6Z2PIPvsfrrZWmoo2stH890yzgW2awgI94YejvWypI3+5yJe/CzBr9wSVht00BI4jybQFth2cVlIB9v8y/SZr9NWw1NyfUrXbr73p6ddCeLkr5n85OWTsfKAEcKTpoueuy1SU8SGlZBH7VL7+0yHi8MoL8KyxfZxMoJfswNoI2WcOa7qcwKNCv5rIL9yEzqogTUB1ybJYMIVfxPcg==" FechaTimbrado="2023-05-03T16:55:40" UUID="FFB484C1-C3BE-4635-9AF3-B2AC6ADB1244" Version="1.1" RfcProvCertif="TSP080724QW6" xsi:schemaLocation="http://www.sat.gob.mx/TimbreFiscalDigital http://www.sat.gob.mx/sitio_internet/cfd/TimbreFiscalDigital/TimbreFiscalDigitalv11.xsd" xmlns:tfd="http://www.sat.gob.mx/TimbreFiscalDigital" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"/></cfdi:Complemento>
+
+
+
+</cfdi:Comprobante>

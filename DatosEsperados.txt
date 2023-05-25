@@ -1,0 +1,50 @@
+Con multialmacen
+Clave   ok
+Proveedor  ok
+Fecha de documento ok
+Descuento financiero ok
+Número de almacén cabecera ?
+Número de moneda ?
+Tipo de cambio ?
+Observaciones ok
+Referencia proveedor ok
+Fecha de recepción ok
+Costo ok
+Descuento ok
+Factor de conversion ok
+Monto indirecto ok
+Unidad de venta ok
+Clave de esquema de impuestos ok
+Clave de artículo ok
+Cantidad ok
+I.E.P.S ok
+Impuesto 2 ok
+Impuesto 3 ok
+I.V.A. ok
+Número de almacén partidas ?
+Observaciones de partida ok
+
+
+Sin multialmacen
+Clave   ok
+Proveedor  ok
+Fecha de documento ok
+Descuento financiero ok
+Observaciones ok
+Referencia proveedor ok
+Fecha de recepción ok
+Costo ok 
+Descuento ok
+Factor de conversion  ok
+Monto indirecto ok
+Unidad de venta ok
+Clave de esquema de impuestos ok
+Clave de artículo ok 
+Cantidad ok
+I.E.P.S ok
+Impuesto 2 ok
+Impuesto 3 ok
+I.V.A. ok
+Observaciones de partida ok
+
+
